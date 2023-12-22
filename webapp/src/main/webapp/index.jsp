@@ -35,7 +35,8 @@
   <h1> Thankyou, Happy Learning </h1>
   <h2>Vinod Raj KJ</h2>
 
-  <h2> Testing Jenks  jobs</h2>
+  <h2> Testing Jenks  jobs </h2>
+  <h2> plese update the Tomcat server url in Post build section</h2>
 
   
 </form>
